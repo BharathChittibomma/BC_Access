@@ -8,7 +8,6 @@ BC_Access is a modern, responsive website designed to empower learners through i
 - **Courses Section**: Showcase of popular courses with hover animations and relevant images.
 - **Reviews Section**: Carousel of student testimonials with star ratings.
 - **Contact Section**: Interactive contact form with animated background and info cards.
-- **About Page**: Dedicated page with information about BC_Access and a "Dive Into" button linking back to home.
 - **Responsive Design**: Built with Bootstrap for mobile-friendly layouts.
 - **Animations**: Powered by AOS (Animate On Scroll) library for smooth transitions.
 - **Dark Theme**: Consistent color scheme with orange (#f5a623) accents on a dark background.
@@ -20,20 +19,6 @@ BC_Access is a modern, responsive website designed to empower learners through i
 - **JavaScript**: For interactive elements like form submission and carousel.
 - **AOS Library**: For scroll-based animations.
 - **Unsplash Images**: High-quality, free images for courses and hero section.
-
-## File Structure
-```
-BC_Access demo/
-├── index.html          # Main homepage with hero, courses, reviews, and contact sections
-├── about.html          # About page with company description and navigation
-├── contact.html        # Contact page (if separate from index.html)
-├── assets/
-│   ├── css/
-│   │   └── style.css   # Additional custom styles (if any)
-│   └── images/         # Local images (cleaning.jpg, electrician.jpg, etc.)
-├── README.md           # This file
-└── TODO.md             # Task list (if applicable)
-```
 
 ## Installation and Setup
 1. **Clone or Download**: Download the project files to your local machine.
@@ -64,3 +49,4 @@ This project is open-source. Use it for educational purposes.
 
 ## Author
 Developed by BHARATH CHITTIBOMMA. Empowering learners globally since 2025.
+
